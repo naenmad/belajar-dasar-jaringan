@@ -1,4 +1,4 @@
-# A387-Jarkom-Labs
+# Submission Belajar Jaringan Komputer untuk Pemula
 
 Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
 
